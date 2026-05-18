@@ -5,14 +5,14 @@
 ⚙️ From embedded systems to full-stack AI platforms  
 
 📍 Tunisia  
-🔗 GitHub: https://github.com/aziz-achour  
+🔗 GitHub: https://github.com/Medazizachour  
 🔗 LinkedIn: https://linkedin.com/in/aziz-achour-250181178
 
 ---
 
 ## 🧠 About Me
 
-Software Engineer with 2+ years of experience delivering **production-grade systems** in industrial environments (Panasonic subsidiary).
+Software Engineer with 3+ years of experience delivering **production-grade systems** in industrial environments.
 
 I specialize in:
 
@@ -81,7 +81,7 @@ Industrial web application for **SMT production line management**.
 
 ## 🔐 PanaBio – Biometric Authentication System
 
-🔗 **Repo:** https://github.com/aziz-achour/your-biometric-project  
+🔗 **Repo:** https://github.com/Medazizachour/biometric_app  
 
 Secure web-based biometric authentication system designed for industrial access control.
 
