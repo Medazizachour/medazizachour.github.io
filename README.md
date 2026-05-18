@@ -130,7 +130,7 @@ Autonomous robot with computer vision and navigation.
 
 ## 💼 AI Chatbot & Automation Solutions
 
-### 🟢 Basic Customer Support Bot — **1200 DT**
+### 🟢 Basic Customer Support Bot — 
 
 - 24/7 automated replies  
 - WhatsApp / Messenger integration  
@@ -138,7 +138,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🔵 Meta Business Automation Bot — **3000 DT**
+### 🔵 Meta Business Automation Bot — 
 
 - Facebook & Instagram automation  
 - Lead qualification  
@@ -147,7 +147,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🟣 HR & Recruitment Bot — **3000 DT**
+### 🟣 HR & Recruitment Bot — 
 
 - CV screening  
 - Candidate Q&A automation  
@@ -156,7 +156,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🟡 E-Commerce AI Chatbot — **Starting from 4500 DT**
+### 🟡 E-Commerce AI Chatbot — 
 
 - AI + human agent hybrid system  
 - Smart product recommendations  
