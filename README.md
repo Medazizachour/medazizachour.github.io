@@ -6,7 +6,7 @@
 
 📍 Tunisia  
 🔗 GitHub: https://github.com/aziz-achour  
-🔗 LinkedIn: [https://linkedin.com/in/aziz-achour-250181178]
+🔗 LinkedIn: https://linkedin.com/in/aziz-achour-250181178
 
 ---
 
@@ -83,16 +83,20 @@ Industrial web application for **SMT production line management**.
 
 🔗 **Repo:** https://github.com/aziz-achour/your-biometric-project  
 
-Desktop application for **secure biometric authentication**.
+Secure web-based biometric authentication system designed for industrial access control.
 
 ### Features
 
-- Fingerprint authentication (1-to-N)
-- Role-Based Access Control (RBAC)
-- AES / RSA encryption
-- Secure TCP communication
+- Designed SQL Server database schema  
+- Developed REST APIs (user / line / machine CRUD)  
+- Integrated Futronic fingerprint SDK:
+  - Enrollment  
+  - 1-to-N fingerprint verification  
+- Implemented Role-Based Access Control (Operator / Engineer / Service)  
+- Built secure TCP socket client with retry & error handling  
+- Implemented encrypted configuration management  
+- Performed end-to-end testing across dev/test/prod environments  
 <img width="1600" height="1409" alt="screen" src="https://github.com/user-attachments/assets/37d2fe7c-0183-463f-af16-ddb96dd8c4ea" />
-<img width="1600" height="1488" alt="screen" src="https://github.com/user-attachments/assets/9a5752af-b916-4c6c-8345-21cb58b17f3c" />
 <img width="1600" height="1314" alt="screen" src="https://github.com/user-attachments/assets/4267c7f9-5e70-40f5-8a28-5425e6b9878e" />
 <img width="1600" height="1444" alt="screen" src="https://github.com/user-attachments/assets/a528915f-22d6-44bc-95ad-e771da41d0da" />
 <img width="1538" height="1600" alt="screen" src="https://github.com/user-attachments/assets/8e5f67c9-50e9-4b9c-a6fc-3bd1157a4a85" />
@@ -102,7 +106,7 @@ Desktop application for **secure biometric authentication**.
 
 ### Tech Stack
 
-`Python` • `PyQt5` • `SQL Server` • `TCP/IP`
+`Python` • `Javascript` • `SQL Server` • `TCP/IP` • `HTML/CSS` • `Figma`
 
 ---
 
