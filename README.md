@@ -6,7 +6,7 @@
 
 📍 Tunisia  
 🔗 GitHub: https://github.com/aziz-achour  
-🔗 LinkedIn: https://linkedin.com/in/aziz-achour  
+🔗 LinkedIn: [https://linkedin.com/in/aziz-achour-250181178]
 
 ---
 
@@ -91,6 +91,14 @@ Desktop application for **secure biometric authentication**.
 - Role-Based Access Control (RBAC)
 - AES / RSA encryption
 - Secure TCP communication
+<img width="1600" height="1409" alt="screen" src="https://github.com/user-attachments/assets/37d2fe7c-0183-463f-af16-ddb96dd8c4ea" />
+<img width="1600" height="1488" alt="screen" src="https://github.com/user-attachments/assets/9a5752af-b916-4c6c-8345-21cb58b17f3c" />
+<img width="1600" height="1314" alt="screen" src="https://github.com/user-attachments/assets/4267c7f9-5e70-40f5-8a28-5425e6b9878e" />
+<img width="1600" height="1444" alt="screen" src="https://github.com/user-attachments/assets/a528915f-22d6-44bc-95ad-e771da41d0da" />
+<img width="1538" height="1600" alt="screen" src="https://github.com/user-attachments/assets/8e5f67c9-50e9-4b9c-a6fc-3bd1157a4a85" />
+<img width="1600" height="1571" alt="screen" src="https://github.com/user-attachments/assets/6d8723b3-d4f4-4dda-a123-950ca8fdf93c" />
+<img width="1347" height="1600" alt="screen" src="https://github.com/user-attachments/assets/5780526f-58ff-422c-8ddb-64428b6e01d2" />
+<img width="1600" height="1298" alt="screen" src="https://github.com/user-attachments/assets/7b1baa4c-323e-498f-a66b-2d890a853ea1" />
 
 ### Tech Stack
 
