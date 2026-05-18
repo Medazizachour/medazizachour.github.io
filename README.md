@@ -79,7 +79,7 @@ Industrial web application for **SMT production line management**.
 
 ---
 
-## 🔐 PanaBio – Biometric Authentication System
+## 🔐 Bio – Biometric Authentication System
 
 🔗 **Repo:** https://github.com/Medazizachour/biometric_app  
 
