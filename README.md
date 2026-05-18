@@ -32,7 +32,7 @@ I specialize in:
 
 ---
 
-## 🤖 AI E-Commerce Chatbot (Arabic-first)
+## 🤖 AI E-Commerce Chatbot
 
 🔗 **Repo:** https://github.com/aziz-achour/your-chatbot-repo  
 
