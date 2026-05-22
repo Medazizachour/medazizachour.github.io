@@ -43,9 +43,9 @@ smooth navigation, and complete shopping experience.
 
 ### 📸 Preview
 
-![Homepage](./images/ecommerce-home.png)
-![Products](./images/ecommerce-products.png)
-![Mobile](./images/ecommerce-mobile.png)
+![Homepage](./images/Homepage.jpg)
+![Products](./images/Shop Page.jpg)
+![Mobile](./images/Homepage.jpg)
 
 ### ⚙️ Features
 
