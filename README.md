@@ -12,7 +12,8 @@
 
 ## 🧠 About Me
 
-Software Engineer with 3+ years of experience delivering **production-grade systems** in industrial environments.
+Software Engineer with 3+ years of experience delivering **production-grade systems** 
+in industrial environments.
 
 I specialize in:
 
@@ -25,6 +26,7 @@ I specialize in:
 ✔️ Developed real-time production tracking tools  
 ✔️ Delivered industrial web applications  
 ✔️ Designed AI-powered chatbots for business  
+✔️ Built fully responsive eCommerce websites  
 
 ---
 
@@ -32,11 +34,49 @@ I specialize in:
 
 ---
 
+## 🛍️ Fashion E-Commerce Website
+
+🔗 **Live Demo:** https://preview.colorlib.com/theme/fashe  
+
+A modern, fully responsive **fashion eCommerce website** with a clean UI,
+smooth navigation, and complete shopping experience.
+
+### 📸 Preview
+
+![Homepage](./images/ecommerce-home.png)
+![Products](./images/ecommerce-products.png)
+![Mobile](./images/ecommerce-mobile.png)
+
+### ⚙️ Features
+
+- 🛒 Product listing with category filtering
+- 🔍 Product detail pages with image gallery
+- 🛍️ Shopping cart functionality
+- 📱 Fully responsive (Mobile / Tablet / Desktop)
+- 🎨 Clean and modern UI/UX design
+- 📧 Newsletter subscription section
+- 🔥 Promotional banners and featured collections
+- ⚡ Optimized performance and fast loading
+
+### 🎯 Impact
+
+✔️ Smooth and intuitive customer journey  
+✔️ Mobile-first design approach  
+✔️ Improved product discoverability  
+✔️ Higher conversion-focused UI layout  
+
+### 🛠️ Tech Stack
+
+`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `Responsive Design`
+
+---
+
 ## 🤖 AI E-Commerce Chatbot
 
 🔗 **Repo:** https://github.com/aziz-achour/your-chatbot-repo  
 
-An intelligent AI chatbot designed for **e-commerce customer support**, optimized for Arabic (RTL) user experience.
+An intelligent AI chatbot designed for **e-commerce customer support**,
+optimized for Arabic (RTL) user experience.
 
 ### ⚙️ Features
 
@@ -66,14 +106,14 @@ An intelligent AI chatbot designed for **e-commerce customer support**, optimize
 
 Industrial web application for **SMT production line management**.
 
-### Features
+### ⚙️ Features
 
 - Multi-protocol communication (CSV, REST, Shared Folder)
 - Real-time production dashboard
 - Auto quantity updates
 - Low stock alerts
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Python Flask` • `Sockets` • `SQL Server` • `JavaScript`
 
@@ -83,9 +123,10 @@ Industrial web application for **SMT production line management**.
 
 🔗 **Repo:** https://github.com/Medazizachour/biometric_app  
 
-Secure web-based biometric authentication system designed for industrial access control.
+Secure web-based biometric authentication system designed for 
+industrial access control.
 
-### Features
+### ⚙️ Features
 
 - Designed SQL Server database schema  
 - Developed REST APIs (user / line / machine CRUD)  
@@ -96,15 +137,25 @@ Secure web-based biometric authentication system designed for industrial access 
 - Built secure TCP socket client with retry & error handling  
 - Implemented encrypted configuration management  
 - Performed end-to-end testing across dev/test/prod environments  
-<img width="1600" height="1409" alt="screen" src="https://github.com/user-attachments/assets/37d2fe7c-0183-463f-af16-ddb96dd8c4ea" />
-<img width="1600" height="1314" alt="screen" src="https://github.com/user-attachments/assets/4267c7f9-5e70-40f5-8a28-5425e6b9878e" />
-<img width="1600" height="1444" alt="screen" src="https://github.com/user-attachments/assets/a528915f-22d6-44bc-95ad-e771da41d0da" />
-<img width="1538" height="1600" alt="screen" src="https://github.com/user-attachments/assets/8e5f67c9-50e9-4b9c-a6fc-3bd1157a4a85" />
-<img width="1600" height="1571" alt="screen" src="https://github.com/user-attachments/assets/6d8723b3-d4f4-4dda-a123-950ca8fdf93c" />
-<img width="1347" height="1600" alt="screen" src="https://github.com/user-attachments/assets/5780526f-58ff-422c-8ddb-64428b6e01d2" />
-<img width="1600" height="1298" alt="screen" src="https://github.com/user-attachments/assets/7b1baa4c-323e-498f-a66b-2d890a853ea1" />
 
-### Tech Stack
+### 📸 Preview
+
+<img width="1600" height="1409" alt="screen" 
+src="https://github.com/user-attachments/assets/37d2fe7c-0183-463f-af16-ddb96dd8c4ea" />
+<img width="1600" height="1314" alt="screen" 
+src="https://github.com/user-attachments/assets/4267c7f9-5e70-40f5-8a28-5425e6b9878e" />
+<img width="1600" height="1444" alt="screen" 
+src="https://github.com/user-attachments/assets/a528915f-22d6-44bc-95ad-e771da41d0da" />
+<img width="1538" height="1600" alt="screen" 
+src="https://github.com/user-attachments/assets/8e5f67c9-50e9-4b9c-a6fc-3bd1157a4a85" />
+<img width="1600" height="1571" alt="screen" 
+src="https://github.com/user-attachments/assets/6d8723b3-d4f4-4dda-a123-950ca8fdf93c" />
+<img width="1347" height="1600" alt="screen" 
+src="https://github.com/user-attachments/assets/5780526f-58ff-422c-8ddb-64428b6e01d2" />
+<img width="1600" height="1298" alt="screen" 
+src="https://github.com/user-attachments/assets/7b1baa4c-323e-498f-a66b-2d890a853ea1" />
+
+### 🛠️ Tech Stack
 
 `Python` • `Javascript` • `SQL Server` • `TCP/IP` • `HTML/CSS` • `Figma`
 
@@ -116,7 +167,7 @@ Secure web-based biometric authentication system designed for industrial access 
 
 Secure real-time video streaming system.
 
-### Features
+### ⚙️ Features
 
 - RTSP streaming
 - AES/RSA hybrid encryption
@@ -131,7 +182,7 @@ Secure real-time video streaming system.
 
 Autonomous robot with computer vision and navigation.
 
-### Features
+### ⚙️ Features
 
 - Path-planning algorithms
 - OpenCV + PyTorch vision
@@ -142,7 +193,7 @@ Autonomous robot with computer vision and navigation.
 
 ## 💼 AI Chatbot & Automation Solutions
 
-### 🟢 Basic Customer Support Bot — 
+### 🟢 Basic Customer Support Bot
 
 - 24/7 automated replies  
 - WhatsApp / Messenger integration  
@@ -150,7 +201,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🔵 Meta Business Automation Bot — 
+### 🔵 Meta Business Automation Bot
 
 - Facebook & Instagram automation  
 - Lead qualification  
@@ -159,7 +210,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🟣 HR & Recruitment Bot — 
+### 🟣 HR & Recruitment Bot
 
 - CV screening  
 - Candidate Q&A automation  
@@ -168,7 +219,7 @@ Autonomous robot with computer vision and navigation.
 
 ---
 
-### 🟡 E-Commerce AI Chatbot — 
+### 🟡 E-Commerce AI Chatbot
 
 - AI + human agent hybrid system  
 - Smart product recommendations  
@@ -211,11 +262,21 @@ Autonomous robot with computer vision and navigation.
 
 ### 🎨 Frontend
 - React / Vue  
+- HTML5 / CSS3 / Bootstrap
 - Tailwind CSS  
 
 ---
 
 ## 📊 What I Bring
+
+| Skill | Level |
+|-------|-------|
+| 🧠 AI & Machine Learning | ⭐⭐⭐⭐⭐ |
+| ⚙️ Backend Development | ⭐⭐⭐⭐⭐ |
+| 🌐 Web Development | ⭐⭐⭐⭐⭐ |
+| 🔐 Security & Encryption | ⭐⭐⭐⭐ |
+| 🤖 Embedded Systems | ⭐⭐⭐⭐ |
+| 🎨 UI/UX Design | ⭐⭐⭐⭐ |
 
 - 🧠 AI + Engineering mindset  
 - ⚙️ Industrial-grade experience  
@@ -228,15 +289,24 @@ Autonomous robot with computer vision and navigation.
 
 📧 mohamedaziz.achour@enicar.u-car.tn  
 📞 +216 29 007 200  
+🔗 GitHub: https://github.com/Medazizachour  
+🔗 LinkedIn: https://linkedin.com/in/aziz-achour-250181178  
 
 ---
 
-## ⭐ Let’s Build Something Powerful
+## ⭐ Let's Build Something Powerful
 
 If you want to:
 
-- Automate your business  
-- Integrate AI into your systems  
-- Build scalable tech products  
+- 🛒 Build a professional eCommerce website
+- 🤖 Automate your business with AI  
+- ⚙️ Integrate AI into your systems  
+- 🚀 Build scalable tech products  
 
 👉 Feel free to reach out!
+
+---
+
+> *"Engineering is not just about writing code — 
+> it's about solving real problems with smart solutions."*  
+> — **Mohamed Aziz Achour**
