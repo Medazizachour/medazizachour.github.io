@@ -44,9 +44,13 @@ smooth navigation, and complete shopping experience.
 ### 📸 Preview
 
 ![Homepage](./images/Homepage.jpg)
-![Products](./images/Shop Page.jpg)
-![Mobile](./images/Homepage.jpg)
-
+![shop](./images/Shop Page.jpg)
+![shopping](./images/Shopping Cart.jpg)
+![mini](./images/Mini cart.jpg)
+![cart](./images/Cart Totals.jpg)
+![blog](./images/Blog Page.jpg)
+![contact](./images/Contact Page.jpg)
+![insta](./images/Contact instagram.jpg)
 ### ⚙️ Features
 
 - 🛒 Product listing with category filtering
