@@ -36,8 +36,6 @@ I specialize in:
 
 ## 🛍️ Fashion E-Commerce Website
 
-🔗 **Live Demo:** https://preview.colorlib.com/theme/fashe  
-
 A modern, fully responsive **fashion eCommerce website** with a clean UI,
 smooth navigation, and complete shopping experience.
 
@@ -75,13 +73,20 @@ smooth navigation, and complete shopping experience.
 
 ---
 
-## 🤖 AI E-Commerce Chatbot
-
-🔗 **Repo:** https://github.com/aziz-achour/your-chatbot-repo  
+## 🤖 AI E-Commerce Chatbot  
 
 An intelligent AI chatbot designed for **e-commerce customer support**,
-optimized for Arabic (RTL) user experience.
+optimized for user experience.
+### 📸 Preview
 
+![Homepage](./images/Homepage.jpg)
+![shop](./images/Shop Page.jpg)
+![shopping](./images/Shopping Cart.jpg)
+![mini](./images/Mini cart.jpg)
+![cart](./images/Cart Totals.jpg)
+![blog](./images/Blog Page.jpg)
+![contact](./images/Contact Page.jpg)
+![insta](./images/Contact instagram.jpg)
 ### ⚙️ Features
 
 - 🧠 **Intent Detection (NLP)**
