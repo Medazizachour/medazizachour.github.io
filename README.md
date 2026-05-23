@@ -79,14 +79,12 @@ An intelligent AI chatbot designed for **e-commerce customer support**,
 optimized for user experience.
 ### 📸 Preview
 
-![Homepage](./images/Homepage.jpg)
-![shop](./images/Shop Page.jpg)
-![shopping](./images/Shopping Cart.jpg)
-![mini](./images/Mini cart.jpg)
-![cart](./images/Cart Totals.jpg)
-![blog](./images/Blog Page.jpg)
-![contact](./images/Contact Page.jpg)
-![insta](./images/Contact instagram.jpg)
+![Homepage](./chatbot/bot_image0.jpg)
+![shop](./chatbot/bot_image1.jpg)
+![shopping](./chatbot/bot_image2.jpg)
+![mini](./chatbot/bot_image3.jpg)
+![cart](./chatbot/bot_image4.jpg)
+
 ### ⚙️ Features
 
 - 🧠 **Intent Detection (NLP)**
