@@ -92,7 +92,6 @@ optimized for user experience.
 - 💬 Interactive UI (animations + emoji)
 - 👍 AI feedback system (continuous improvement)
 - 📱 Mobile-first & high performance
-- 🌍 Full RTL Arabic support
 
 ### 🎯 Impact
 
